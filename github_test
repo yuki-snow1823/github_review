@@ -7,7 +7,7 @@
 </head>
 <body>
   <p>test</p>
-  <p>ローカルのマスターです</p>
-  <p>オリジンのマスターです</p>
+  <p>branchtest</p>
+  <p>マスターにマージさせたい</p>
 </body>
 </html>
